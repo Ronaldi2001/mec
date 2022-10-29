@@ -1,0 +1,5 @@
+Labs-50:
+Assignments-500:
+Term Project-350:
+Review Project-30:
+Final-100:

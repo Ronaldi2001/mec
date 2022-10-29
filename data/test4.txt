@@ -1,0 +1,5 @@
+Labs-50: 5 5 5 5 5 5 5 5
+Assignments-500: 100 75 50 100 75
+Term Project-350: 325
+Review Project-30: 0
+Final-100: 80
